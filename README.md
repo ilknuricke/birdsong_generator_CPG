@@ -10,8 +10,7 @@ run: birdsong_generator.m
 
 
 
-See: http://mindwriting.org/blog/?p=229 or http://mindwriting.org/research/misc/birdsong_dynamics_math330.pdf for details
-
+See: https://medium.com/@IckeIlknur/central-pattern-generators-to-synthesize-birdsongs-f0d09d6936c0
 
 
 
